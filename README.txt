@@ -5,5 +5,5 @@ Directories you can find here
 1. homework - 'my homework on algorithms, paradigms, cpp and etc'
 2. labs     - 'my solutions for laboratory work'
 3. projects - 'my working projects, where I write my code'
-4. templates- 'my templates and blanks for quick access to what I once wrote'
+4. templates- 'my templates for quick access to what I once wrote'
 -------------------------------------
