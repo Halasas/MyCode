@@ -7,3 +7,4 @@ Directories you can find here
 3. projects - 'my working projects, where I write my code'
 4. templates- 'my templates for quick access to what I once wrote'
 -------------------------------------
+origin https://github.com/Halasas/MyCode
