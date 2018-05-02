@@ -1,7 +1,0 @@
-﻿  mvscppproject.cpp
-d:\repos\mycode\projects\mvs_cpp_project\mvs_cpp_project\mvscppproject.cpp(42): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
-d:\repos\mycode\projects\mvs_cpp_project\mvs_cpp_project\mvscppproject.cpp(92): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
-d:\repos\mycode\projects\mvs_cpp_project\mvs_cpp_project\mvscppproject.cpp(94): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
-d:\repos\mycode\projects\mvs_cpp_project\mvs_cpp_project\mvscppproject.cpp(131): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  mvs_cpp_project.vcxproj -> D:\repos\MyCode\projects\mvs_cpp_project\Debug\mvs_cpp_project.exe
-  mvs_cpp_project.vcxproj -> D:\repos\MyCode\projects\mvs_cpp_project\Debug\mvs_cpp_project.pdb (Partial PDB)

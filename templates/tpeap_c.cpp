@@ -51,17 +51,22 @@ void update(node* t) {
 }
 
 node* merge(node* &t1, node* &t2) {
-	if (t1 == NULL)
+	if (t1 == NULL) {
+		update(t1);
 		return t2;
-
-	if (t2 == NULL)
+	}
+	if (t2 == NULL) {
+		update(t1);
 		return t1;
+	}
 
 	if ((t1->y) > (t2->y)) {
 		t1->right = merge(t1->right, t2);
+		update(t1);
 		return t1;
 	}
 	t2->left = merge(t1, t2->left);
+	update(t2);
 	return t2;
 }
 

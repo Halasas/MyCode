@@ -52,7 +52,6 @@ function poly (args, apply, type) {
     }
 };
 
-
 function Negate (arg) {
     return new poly(arg, function(x) {return -x; }, "negate");
 }
