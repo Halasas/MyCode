@@ -4,7 +4,6 @@ Here you can find different sources from my training course, if you do not like 
 Directories you can find here
 1. homework - 'my homework on algorithms, paradigms, cpp and etc'
 2. labs     - 'my solutions for laboratory work'
-3. projects - 'my working projects, where I write my code'
-4. templates- 'my templates for quick access to what I once wrote'
+3. templates- 'my templates for quick access to what I once wrote'
 -------------------------------------
 origin https://github.com/Halasas/MyCode
