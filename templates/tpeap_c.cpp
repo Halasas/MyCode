@@ -52,7 +52,7 @@ void update(node* t) {
 
 node* merge(node* &t1, node* &t2) {
 	if (t1 == NULL) {
-		update(t1);
+		update(t2);
 		return t2;
 	}
 	if (t2 == NULL) {
@@ -100,16 +100,6 @@ void insert(node* &t, node* x, int k) {
 }
 
 
-
-void remove(node* &t, int k) {
-	pair<node*, node*> tm1 = split(t, k);
-	node* left = tm1.first;
-
-	pair<node*, node*> tm2 = split(tm1.second, k + 1);
-	node* right = tm2.second;
-
-	t = merge(left, right);
-}
 
 
 int main() {
