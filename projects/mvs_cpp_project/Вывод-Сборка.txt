@@ -1,0 +1,5 @@
+﻿1>------ Сборка начата: проект: mvs_cpp_project, Конфигурация: Debug Win32 ------
+1>mvscppproject.cpp
+1>mvs_cpp_project.vcxproj -> D:\repos\MyCode\projects\mvs_cpp_project\Debug\mvs_cpp_project.exe
+1>mvs_cpp_project.vcxproj -> D:\repos\MyCode\projects\mvs_cpp_project\Debug\mvs_cpp_project.pdb (Partial PDB)
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
